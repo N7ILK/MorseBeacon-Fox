@@ -1,4 +1,5 @@
 # MorseBeacon-Fox
+(untested!) PCB design at https://aisler.net/p/DXDWUNGR
 Simple project for interfacing inexpensive HT to Arduino Nano (clone) to make a fox hunt transmitter.
 
 Parameters can be set remotely via DTMF for callsign, on/off,  delay period, send melody.
