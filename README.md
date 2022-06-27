@@ -3,12 +3,12 @@
  Simple project for interfacing NiceRF SA828 to Arduino Nano (clone) to make a fox hunt transmitter.
 
 Hardware:
-Battery connects to both SA828 and vin of Arduino. 100mfd across battery suppresses spikes when xmitting
-Pin 6 to MIC+ 
-Pin 7 to PTT
-Pin A0 to SPK closest to edge of board with antenna connector
-Jumper H/L to GND for .5W output. This was plenty for our hunt within a wildlife refuge
-250K ohm variable across VOL pins. I'm set a bit less than halfway ~160k ohms.
+Battery connects to both SA828 and vin of Arduino. 100mfd across battery suppresses spikes when xmitting - 
+Pin 6 to MIC+ - 
+Pin 7 to PTT - 
+Pin A0 to SPK closest to edge of board with antenna connector - 
+Jumper H/L to GND for .5W output. This was plenty for our hunt within a wildlife refuge - 
+250K ohm variable across VOL pins. I'm set a bit less than halfway ~160k ohms
 
 You'll need the software to program your frequency/ies into the SA828. It's available on the Nice RF website
 
