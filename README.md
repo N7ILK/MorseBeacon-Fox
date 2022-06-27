@@ -1,6 +1,6 @@
 # MorseBeacon-Fox
 
-Simple project for interfacing NiceRF SA828 to Arduino Nano (clone) to make a fox hunt transmitter.
+ Simple project for interfacing NiceRF SA828 to Arduino Nano (clone) to make a fox hunt transmitter.
 
 Hardware:
 Battery connects to both SA828 and vin of Arduino. 100mfd across battery suppresses spikes when xmitting
