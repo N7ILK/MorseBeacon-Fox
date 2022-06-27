@@ -12,6 +12,8 @@ Jumper H/L to GND for .5W output. This was plenty for our hunt within a wildlife
 
 You'll need the software to program your frequency/ies into the SA828. It's available on the Nice RF website
 
+Requires El_Supremo's DTMF library. (https://forum.arduino.cc/t/dtmf-decoder-library/118979)
+
 Parameters can be set remotely via DTMF for callsign, on/off,  delay period, send melody.
 
 0: Stop transmitting. Defaults to not transmit when reset
